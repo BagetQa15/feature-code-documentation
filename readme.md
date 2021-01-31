@@ -11,3 +11,4 @@
 ![page2](https://4.downloader.disk.yandex.ru/preview/c59b6554ffe653d2105da7eaf60435cf6577a8f629b0cd37e426384362b03684/inf/pdGfFebJPR_1ZR8p4YztWFP7MRg3plMlQa9rpjOaIy9zvjcSkU71GJuoU1nMvB6QhP2x4tGhKq-yxkCwhog2oA%3D%3D?uid=688081907&filename=Screenshot_8.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=688081907&tknv=v2&size=1263x913) 
 # «резервная копия» проекта
 
+![page3](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
