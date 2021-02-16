@@ -1,5 +1,3 @@
-# Специально для: 
-![page3](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
 # Git - Одна из лучших истем контроля версий.
 ## Почему следует выбрать Git в совокупности с Github:
 * Бесплатное использование программы и сервиса 
@@ -16,4 +14,5 @@
 ![page3](https://downloader.disk.yandex.ru/preview/488aa15a7e38975ed6300376df6a3ad7f5cd154142c0d8acaf2c4f16847870cc/6016cd89/oZGzi3aFq9FgR9XkZEpRN3AmblJw_rOz9D9P8GCvzWj92uR9I3sRQIMKYnFaNYpBdngHQtPks7nmlJUJ7vRydg%3D%3D?uid=0&filename=Screenshot_9.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 Откат к любым изменениям на проекте
 
-
+#Специально для:
+![page3](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
