@@ -16,4 +16,23 @@
 ![page3](https://downloader.disk.yandex.ru/preview/488aa15a7e38975ed6300376df6a3ad7f5cd154142c0d8acaf2c4f16847870cc/6016cd89/oZGzi3aFq9FgR9XkZEpRN3AmblJw_rOz9D9P8GCvzWj92uR9I3sRQIMKYnFaNYpBdngHQtPks7nmlJUJ7vRydg%3D%3D?uid=0&filename=Screenshot_9.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 Откат к любым изменениям на проекте
 
+#Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
 
+##JavaScript:
+
+~~~
+<script src="https://localhost/neuro.sdk.min.js"></script>
+~~~
+##Java (Maven):
+~~~
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+~~~
+##iOS (добавьте код в ваш Podfile):
+~~~
+platform :ios, '8.0'
+pod "neuro-ios-sdk"
+~~~
